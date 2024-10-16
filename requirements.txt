@@ -1,0 +1,12 @@
+Pillow==10.4.0         # For the PIL (Python Imaging Library) fork
+IPython
+openai                 # For the OpenAI API
+requests               # For making HTTP requests
+python-dotenv          # For loading environment variables
+facebook-sdk           # For Facebook API interaction
+Flask                  # For the web framework (Flask)
+python-dotenv          # For environment variables management
+typing-extensions      # For type hints
+pathlib                # Path manipulation, part of Python's stdlib
+autogen-agentchat~=0.2
+agentops               # track error for agentic framework
